@@ -14,7 +14,7 @@ This business case outlines the development of an NLP model to automate the proc
 
 ## Dataset selected
 
-1. The dataset selected was the publicly available and downsized dataset of Amazon customer reviews from their online marketplace containing 34,000 reviews on Amazon products, the dataset can be found here (https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products/data).
+1. The dataset selected was the publicly available and downsized dataset of Amazon customer reviews from their online marketplace containing 34,000 reviews on Amazon products, the dataset can be found [here](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products/data).
 
 
 ## Deliverables contained
@@ -35,4 +35,4 @@ This business case outlines the development of an NLP model to automate the proc
     - Requirements
 
 5. **Tableu Link**
-    - The link to the tableu created is here (https://public.tableau.com/app/profile/fernando.nuno.vieira/viz/TableauProjectII_17194780752820/Dynamictable?publish=yes)
+    - The link to the tableu created is [here](https://public.tableau.com/app/profile/fernando.nuno.vieira/viz/TableauProjectII_17194780752820/Dynamictable?publish=yes)
