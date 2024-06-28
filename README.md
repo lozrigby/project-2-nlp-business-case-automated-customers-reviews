@@ -20,7 +20,7 @@ This business case outlines the development of an NLP model to automate the proc
 ## Deliverables contained
 
 1. **Project Notebooks**
-   - Containing the model implementation and training process for each model.
+   - Containing the model implementation and training process for each model.  Models were kept seperate due to computing unit limitations
    - **When reviewing notebooks, the path will have to be changed to where the data is stored on your google drive
    - 1429_1.csv is the dataset 
 
