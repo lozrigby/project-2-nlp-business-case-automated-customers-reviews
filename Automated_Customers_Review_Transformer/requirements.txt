@@ -1,0 +1,10 @@
+transformers~=4.31.0
+accelerate~=0.21.0
+datasets==2.10.1
+pyarrow==10.0.1
+torch
+scikit-learn
+pandas
+tqdm
+seaborn
+matplotlib
